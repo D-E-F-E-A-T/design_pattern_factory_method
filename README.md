@@ -1,1 +1,1 @@
-# design_pattern_factory_method
+# Exemplo do design pattern Factory Method.
